@@ -3,7 +3,7 @@
 東京理科大学 応用数学研究部(OSK) DeepLearning班 論文読み会の発表資料
 
 ## 論文
-- Coss-Entropy-Loss*
+- Cross-Entropy-Loss*
 - [Deep Learning for Bug-Localization in Student Programs](https://arxiv.org/abs/1905.12454)*
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)*
